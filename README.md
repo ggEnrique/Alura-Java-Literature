@@ -18,3 +18,5 @@ The application is developed using Java and Spring Boot and interacts with a Pos
 - Hibernate
 - PostgreSQL
 - JSON Processing
+
+Screenshots will be added at a later date after debugging
